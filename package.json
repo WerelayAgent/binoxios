@@ -1,0 +1,17 @@
+{
+  "name": "binoxios",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Binoxios ($BINOX) — The official unbothered trench scout mascot on Solana.",
+  "keywords": [
+    "binoxios",
+    "binox",
+    "solana",
+    "meme",
+    "trenches",
+    "mascot",
+    "scout"
+  ],
+  "author": "Binoxios Community",
+  "license": "MIT"
+}
